@@ -10,7 +10,6 @@ My top languages!<br>
 
 <h3>Connect with me:</h3>
 <a href="https://discord.com/users/716009175309746318">Discord<a/>
-<a href="https://leosight.cz/profil/1481">Leosight.cz<a/>
 <a href="https://steamcommunity.com/id/petiik/">Steam<a/>
 
 
