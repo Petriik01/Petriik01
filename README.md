@@ -1,8 +1,4 @@
-Yeee! 👋
-
-Hello, I am Petriik 16 y.o. DEV from CZE.<br>
-I am interested in PHP and WEB developing.<br>
-
+Yeee! 👋<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petriik01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br> 
