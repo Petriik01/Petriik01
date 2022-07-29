@@ -1,11 +1,9 @@
 Yeee! 👋<br>
 
-<h3>Connect with me:</h3>
+
+
+📫 How to reach me:
 <a href="https://discord.com/users/716009175309746318">Discord<a/>
-
-
-
-
 
 <!--
 **Petriik01/Petriik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
