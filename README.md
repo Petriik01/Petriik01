@@ -1,12 +1,8 @@
 Yeee! 👋<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petriik01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petriik01&show_icons=true&theme=radical)
-
 <h3>Connect with me:</h3>
 <a href="https://discord.com/users/716009175309746318">Discord<a/>
-<a href="https://steamcommunity.com/id/petiik/">Steam<a/>
+
 
 
 
